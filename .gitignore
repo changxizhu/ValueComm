@@ -79,3 +79,5 @@ ENV/
 # results
 results/
 *.log
+*.json
+*sacred*

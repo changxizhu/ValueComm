@@ -29,6 +29,24 @@
   "epsilon_T": [
     25
   ],
+  "grad_norm": [
+    1.7845076322555542
+  ],
+  "grad_norm_T": [
+    855
+  ],
+  "loss": [
+    1.739025354385376
+  ],
+  "loss_T": [
+    855
+  ],
+  "q_taken_mean": [
+    0.01684556392201206
+  ],
+  "q_taken_mean_T": [
+    855
+  ],
   "return_mean": [
     {
       "dtype": "float64",
@@ -48,6 +66,18 @@
   ],
   "return_std_T": [
     25
+  ],
+  "target_mean": [
+    0.089752532780519
+  ],
+  "target_mean_T": [
+    855
+  ],
+  "td_error_abs": [
+    0.7982116342288011
+  ],
+  "td_error_abs_T": [
+    855
   ],
   "test_battle_won_mean": [
     0.0
