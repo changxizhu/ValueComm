@@ -1,0 +1,9 @@
+torchvision
+torch_scatter
+numpy
+sacred
+gym==0.26.2
+PyYAML
+einops
+tensorboard_logger
+git+https://github.com/oxwhirl/smac.git
