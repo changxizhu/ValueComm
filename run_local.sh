@@ -5,7 +5,7 @@
 # 2s3z 3s5z 3s5z_vs_3s6z
 
 map_name="5m_vs_6m"
-NTASKS=1
+NTASKS=6
 method="tgcnet"
 
 for i in `seq 1 $NTASKS`; do

@@ -83,7 +83,7 @@
   "save_model": true,
   "save_model_interval": 2000000,
   "save_replay": false,
-  "seed": 707357351,
+  "seed": 472952400,
   "standardise_returns": false,
   "standardise_rewards": true,
   "t_max": 5000000,

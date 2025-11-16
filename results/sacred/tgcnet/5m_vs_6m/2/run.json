@@ -2,7 +2,7 @@
   "artifacts": [],
   "command": "my_main",
   "experiment": {
-    "base_dir": "/home/zhu00030/coding/TGCNet/src",
+    "base_dir": "/home/zhu00030/coding/ValueComm/src",
     "dependencies": [
       "munch==2.5.0",
       "numpy==1.26.4",
@@ -14,19 +14,19 @@
     "name": "pymarl-c",
     "repositories": [
       {
-        "commit": "453513d426e8b049d4863ccd7e9d48f045f2c383",
+        "commit": "76e2a382fe29a1e78af95598dca458591fd54fef",
         "dirty": true,
-        "url": "https://github.com/ZhuohuiZhang/TGCNet.git"
+        "url": "https://github.com/changxizhu/ValueComm.git"
       },
       {
-        "commit": "453513d426e8b049d4863ccd7e9d48f045f2c383",
+        "commit": "76e2a382fe29a1e78af95598dca458591fd54fef",
         "dirty": true,
-        "url": "https://github.com/ZhuohuiZhang/TGCNet.git"
+        "url": "https://github.com/changxizhu/ValueComm.git"
       },
       {
-        "commit": "453513d426e8b049d4863ccd7e9d48f045f2c383",
+        "commit": "76e2a382fe29a1e78af95598dca458591fd54fef",
         "dirty": true,
-        "url": "https://github.com/ZhuohuiZhang/TGCNet.git"
+        "url": "https://github.com/changxizhu/ValueComm.git"
       }
     ],
     "sources": [
@@ -44,7 +44,7 @@
       ]
     ]
   },
-  "heartbeat": "2025-11-16T13:07:18.391758",
+  "heartbeat": "2025-11-16T13:25:49.194060",
   "host": {
     "ENV": {},
     "cpu": "13th Gen Intel(R) Core(TM) i9-13900",
@@ -97,6 +97,6 @@
   },
   "resources": [],
   "result": null,
-  "start_time": "2025-11-16T13:05:28.370958",
+  "start_time": "2025-11-16T13:24:29.180691",
   "status": "RUNNING"
 }
