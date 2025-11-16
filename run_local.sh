@@ -6,7 +6,7 @@
 
 map_name="5m_vs_6m"
 NTASKS=6
-method="tgcnet"
+method="maic"
 
 for i in `seq 1 $NTASKS`; do
     nohup python src/main.py --alg-config=$method --env-config=sc2 with env_args.map_name=$map_name > results/Logs/output"${i}".log 2>&1 &

@@ -81,3 +81,7 @@ results/*
 *.log
 *.json
 results/sacred/*
+
+# Files
+*.pyc
+*/__pycache__/*
