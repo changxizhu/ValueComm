@@ -82,6 +82,8 @@ results/*
 *.json
 results/sacred/*
 
-# Files
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore compiled Python files
 *.pyc
-*/__pycache__/*
