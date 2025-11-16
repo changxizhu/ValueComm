@@ -77,7 +77,7 @@ ENV/
 *.h5
 
 # results
-results/
+results/*
 *.log
 *.json
-*sacred*
+results/sacred/*
