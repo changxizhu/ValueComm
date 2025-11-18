@@ -146,3 +146,11 @@ Sending ResponseJoinGame
 [INFO 14:06:59] my_main t_env: 22 / 5000000
 [INFO 14:06:59] my_main Estimated time left: 9 minutes, 33 seconds. Time passed: 5 seconds
 [INFO 14:07:24] my_main Saving models to results/models/tgcnet_seed120983848_3m_2025-11-18_14-06-52/22
+[INFO 14:48:02] my_main Recent Stats | t_env:      50007 | Episode:     2185
+battle_won_mean:           0.0129	dead_allies_mean:          2.9689	dead_enemies_mean:         0.2853	ep_length_mean:           22.7267
+epsilon:                   0.2391	grad_norm:                28.7141	loss:                      2.7726	q_taken_mean:              3.0775
+return_mean:               3.3472	return_std:                1.3856	target_mean:               3.1293	td_error_abs:              1.0282
+test_battle_won_mean:      0.0000	test_dead_allies_mean:     2.7200	test_dead_enemies_mean:    0.0000	test_ep_length_mean:      33.3300
+test_return_mean:          0.0066	test_return_std:           0.0460	
+[INFO 14:48:03] my_main t_env: 50027 / 5000000
+[INFO 14:48:03] my_main Estimated time left: 2 days, 19 hours, 46 minutes, 7 seconds. Time passed: 41 minutes, 10 seconds

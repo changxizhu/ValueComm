@@ -81,3 +81,9 @@ results/*
 *.log
 *.json
 results/sacred/*
+
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore compiled Python files
+*.pyc
