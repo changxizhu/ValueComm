@@ -4,7 +4,7 @@
 # 3m 5m_vs_6m 8m_vs_9m 10m_vs_11m"
 # 2s3z 3s5z 3s5z_vs_3s6z
 
-map_name="5m_vs_6m"
+map_name="3m"
 NTASKS=6
 method="tgcnet"
 
